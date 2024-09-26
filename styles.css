@@ -1,0 +1,108 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: arial, sans-serif;
+}
+
+body {
+    background-color: rgba(180, 180, 180, 0.4);
+}
+
+.home-header {
+    background-color: rgba(125, 0, 190, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.site-title {
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.menu ul {
+    padding: 0;
+    padding-bottom: 15px;
+}
+
+.menu li {
+    display: inline;
+    margin: 0 1px;
+    margin-left: 10px; 
+}
+
+.menu a {
+    display: inline-block;
+    padding: 0.5em;
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.main-menu  {
+    text-align: center;
+}
+
+.home-section {
+    background-color: rgba(255, 255, 255, 1);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+div {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    padding: 0 0 10px 0;
+    margin-bottom: 40px;
+}
+
+.about-header {
+    background-color: rgba(125, 0, 190, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.about-title {
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.about-container {
+    background-color: rgba(255, 255, 255, 1);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-header {
+    background-color: rgba(125, 0, 190, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.contact-title {
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.contact-container {
+    background-color: rgba(255, 255, 255, 1);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 440px;
+    margin-left: 36%;
+}
+
+footer {
+    background-color: rgba(125, 0, 190, 1);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding-bottom: 35px;
+    padding-top: 40px;
+}
